@@ -2041,12 +2041,15 @@ input, select, textarea {
     display: flex;
 	flex-wrap: wrap;
     justify-content: center;
-    margin: 50px;
+    margin: 30px;
     color:#efefef;
     font-weight: bold;
     -webkit-text-stroke: .8px white;
-}
+	}
 
+	.language-icons {
+		margin: 10px;
+	}
 	.image {
 		border-radius: 0.35em;
 		border: 0;
@@ -2642,9 +2645,9 @@ input, select, textarea {
 		}
 
 		#header h1 {
-			color: rgba(255, 255, 255, 0.5);
-			font-size: 1.35em;
-			line-height: 1.75em;
+			color: rgb(250, 250, 250);
+			font-size: 1.75em;
+			line-height: 1.35em;
 			margin: 0;
 		}
 
