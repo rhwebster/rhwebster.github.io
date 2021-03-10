@@ -2036,6 +2036,12 @@ input, select, textarea {
 		}
 
 /* Image */
+	
+	.language-pic {
+		height: 5em;
+		width: 5em;
+		border-radius: 50%;
+	}
 
 	.image {
 		border-radius: 0.35em;
