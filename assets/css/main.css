@@ -2037,11 +2037,20 @@ input, select, textarea {
 
 /* Image */
 	
-	.language-pic {
-		height: 5em;
-		width: 5em;
-		border-radius: 50%;
-	}
+	/* .language-list {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    display: grid;
+    grid-template-columns: 25px 25px 25px 25px 25px;
+    grid-template-rows: 25px 25px;
+    grid-row-gap: 5px;
+    grid-column-gap: 10px;
+    justify-content: center;
+    color:#efefef;
+    font-weight: bold;
+    -webkit-text-stroke: .8px white;
+} */
 
 	.image {
 		border-radius: 0.35em;
