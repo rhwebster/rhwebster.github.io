@@ -2041,7 +2041,7 @@ input, select, textarea {
     display: flex;
 	flex-wrap: wrap;
     justify-content: center;
-    margin: 30px;
+    margin: 18px;
     color:#efefef;
     font-weight: bold;
     -webkit-text-stroke: .8px white;
@@ -2049,7 +2049,11 @@ input, select, textarea {
 
 	.language-icons {
 		margin: 10px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
 	}
+
 	.image {
 		border-radius: 0.35em;
 		border: 0;
